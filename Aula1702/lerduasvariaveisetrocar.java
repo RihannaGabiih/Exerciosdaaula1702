@@ -2,7 +2,7 @@ package Aula1702;
 
 import java.util.Scanner;
 
-public class lerduasvariaveisetrocar {
+public class LerDuasVariaveisETrocar {
 
 	public static void main(String[] args) {
 		// ler dois valores e trocar
