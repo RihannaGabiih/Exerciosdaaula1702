@@ -2,7 +2,7 @@ package Aula1702;
 
 import java.util.Scanner;
 
-public class quatrovalores {
+public class QuatroValores {
 
 	public static void main(String[] args) {
 		
