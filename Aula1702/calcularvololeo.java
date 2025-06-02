@@ -2,7 +2,7 @@ package Aula1702;
 
 import java.util.Scanner;
 
-public class calcularvololeo {
+public class CalcularVolOleo {
 
 	public static void main(String[] args) {
 		
