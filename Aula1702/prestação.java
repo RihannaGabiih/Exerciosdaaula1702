@@ -2,7 +2,7 @@ package Aula1702;
 
 import java.util.Scanner;
 
-public class prestação {
+public class Prestação {
 
 	public static void main(String[] args) {
 		// Efetuar o cálculo e apresentar o valor de uma prestação de
