@@ -2,7 +2,7 @@ package Aula1702;
 
 import java.util.Scanner;
 
-public class convertergc {
+public class ConverterGC {
 
 	public static void main(String[] args) {
 		
